@@ -1,0 +1,81 @@
+{
+  "id": 9895008183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.74416192149533,13.281118051793838,144.74416192149533,13.281118051793838",
+    "geom:latitude":13.281118,
+    "geom:longitude":144.744162,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389880: name \"Mayaya\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389880: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389880"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389880: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389880"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1126028107 (Inarajan Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1126028107 (Inarajan Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Mayaya"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        1126028107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1389880
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"ed872fc42b68f96d348648d479133c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1126028107,
+            "neighbourhood_id":9895008183
+        }
+    ],
+    "wof:id":9895008183,
+    "wof:lastmodified":1794684276,
+    "wof:name":"Mayaya",
+    "wof:parent_id":1126028107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.74416192149533,
+    13.281118051793838,
+    144.74416192149533,
+    13.281118051793838
+],
+  "geometry": {"coordinates":[144.74416192149533,13.281118051793838],"type":"Point"}
+}

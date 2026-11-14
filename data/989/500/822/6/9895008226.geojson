@@ -1,0 +1,82 @@
+{
+  "id": 9895008226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.69999524174352,13.466673595537506,144.69999524174352,13.466673595537506",
+    "geom:latitude":13.466674,
+    "geom:longitude":144.699995,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2651967: name \"Presidio\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2651967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2651967: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2651967"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 2651967: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2651967"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 890436031 (Piti Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 890436031 (Piti Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Presidio"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        890436031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":2651967
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"a797b53791d050d60a3a5f4ace83acb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":890436031,
+            "neighbourhood_id":9895008226,
+            "region_id":-1
+        }
+    ],
+    "wof:id":9895008226,
+    "wof:lastmodified":1794684277,
+    "wof:name":"Presidio",
+    "wof:parent_id":890436031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.69999524174352,
+    13.466673595537506,
+    144.69999524174352,
+    13.466673595537506
+],
+  "geometry": {"coordinates":[144.69999524174352,13.466673595537506],"type":"Point"}
+}

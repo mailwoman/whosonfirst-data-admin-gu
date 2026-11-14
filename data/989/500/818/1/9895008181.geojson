@@ -1,0 +1,81 @@
+{
+  "id": 9895008181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.74332852206692,13.283062551309584,144.74332852206692,13.283062551309584",
+    "geom:latitude":13.283063,
+    "geom:longitude":144.743329,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389496: name \"Asagas\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389496: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389496"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1389496: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1389496"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1126028107 (Inarajan Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1126028107 (Inarajan Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Asagas"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        1126028107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1389496
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"765e58d8420d91b35ab2b2a9989beda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1126028107,
+            "neighbourhood_id":9895008181
+        }
+    ],
+    "wof:id":9895008181,
+    "wof:lastmodified":1794684276,
+    "wof:name":"Asagas",
+    "wof:parent_id":1126028107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.74332852206692,
+    13.283062551309584,
+    144.74332852206692,
+    13.283062551309584
+],
+  "geometry": {"coordinates":[144.74332852206692,13.283062551309584],"type":"Point"}
+}

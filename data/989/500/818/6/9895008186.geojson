@@ -1,0 +1,81 @@
+{
+  "id": 9895008186,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.7499952198277,13.285006950441414,144.7499952198277,13.285006950441414",
+    "geom:latitude":13.285007,
+    "geom:longitude":144.749995,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390187: name \"Yabai\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390187: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390187"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390187: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390187"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1126028107 (Inarajan Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1126028107 (Inarajan Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Yabai"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        1126028107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1390187
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"632ce82b178b8c26bee3b1801e631d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1126028107,
+            "neighbourhood_id":9895008186
+        }
+    ],
+    "wof:id":9895008186,
+    "wof:lastmodified":1794684276,
+    "wof:name":"Yabai",
+    "wof:parent_id":1126028107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.7499952198277,
+    13.285006950441414,
+    144.7499952198277,
+    13.285006950441414
+],
+  "geometry": {"coordinates":[144.7499952198277,13.285006950441414],"type":"Point"}
+}

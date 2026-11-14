@@ -1,0 +1,81 @@
+{
+  "id": 9895008185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.74777302047843,13.280284751914847,144.74777302047843,13.280284751914847",
+    "geom:latitude":13.280285,
+    "geom:longitude":144.747773,
+    "iso:country":"GU",
+    "mailwoman:sources":[
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390142: name \"Tumon Chama\"",
+            "property":"wof:name",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390142: primary point",
+            "property":"geometry",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390142"
+        },
+        {
+            "citation":"U.S. Geological Survey, Geographic Names Information System, populated place 1390142: feature id",
+            "property":"wof:concordances",
+            "url":"https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1390142"
+        },
+        {
+            "citation":"The GNIS point lies inside the boundary of WOF locality 1126028107 (Inarajan Village).",
+            "property":"wof:placetype"
+        },
+        {
+            "citation":"The hierarchy of WOF locality 1126028107 (Inarajan Village), which contains the GNIS point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "name:eng_x_preferred":[
+        "Tumon Chama"
+    ],
+    "src:geom":"gnis",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057,
+        1126028107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gnis:id":1390142
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"82683411562b15e210159aa7006c3930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1126028107,
+            "neighbourhood_id":9895008185
+        }
+    ],
+    "wof:id":9895008185,
+    "wof:lastmodified":1794684276,
+    "wof:name":"Tumon Chama",
+    "wof:parent_id":1126028107,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.74777302047843,
+    13.280284751914847,
+    144.74777302047843,
+    13.280284751914847
+],
+  "geometry": {"coordinates":[144.74777302047843,13.280284751914847],"type":"Point"}
+}
